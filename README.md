@@ -1,6 +1,5 @@
-# Anunez25.github.io
-Kingdom hearts profiles
-
+# Kingdom_Hearts_Profiles
+A characters profile site of Kingdom hearts
 # Motivation
 That was one project based in an inative repository that I founded inspired in Kingdom Hearts characters profiles, the profiles was added with focus on the first game of Kingdom hearts.
 I start to contribute on that repository but I made a lot of changes so I decided make my own repository about the idea :P.
