@@ -2,7 +2,7 @@
 A characters profile site of <b>Kingdom hearts</b>.
 
 # Motivation
-That was one project based in an inative repository that I founded inspired in <b>Kingdom Hearts<b> characters profiles, the profiles was added with focus on the first game of Kingdom hearts.
+That was one project based in an inative repository that I founded inspired in <b>Kingdom Hearts</b> characters profiles, the profiles was added with focus on the first game of <b>Kingdom hearts</b>.
 I start to contribute on that repository but I made a lot of changes so I decided make my own repository about the idea :P.
 
 # Code Style
