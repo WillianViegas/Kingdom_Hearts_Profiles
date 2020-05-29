@@ -1,0 +1,99 @@
+body{
+    color: rgb(0,0,0);
+    
+    text-align: center;
+    background-image: url("images/background.png");
+}
+
+h1{
+    background-color: gold;
+}
+
+div{
+    display: inline-block;
+}
+
+header{
+    padding: 10px 0;
+}
+
+.box{
+    background-image: url("images/background_white.jpg");
+    
+    width:70%;
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;;
+}
+
+nav{
+    top: 250px;
+    right: 550px;
+}
+
+.bot h2{
+    width:30px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;  
+}
+
+nav a{
+    text-transform: uppercase;
+    color: gray;
+    font-weight: bold;
+    font-size:20px;
+    text-decoration:underline;
+}
+
+nav a:hover{
+    text-transform: uppercase;
+    color: Black;
+    font-weight: bold;
+    font-size:20px;
+    text-decoration:underline;
+    transition: 1s;
+}
+
+.container{
+    background-color: gray;
+    width: 50%;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+}
+
+.container img{
+    margin-right: -10px;
+    width: auto;
+    padding: 20px;
+}
+
+.container li{
+    display: inline-block;
+    margin: 0 0 0 30px;  
+   text-align: center;
+   padding: 10px;
+}
+
+.container h2{
+    background-color: gold;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 80%;
+    border-radius: 5%;
+}
+
+.container a{
+text-transform: uppercase;
+color: black;
+font-weight: bold;
+font-size:15px;
+text-decoration:underline;
+}
