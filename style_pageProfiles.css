@@ -74,11 +74,14 @@ nav a:hover{
     padding: 20px;
 }
 
+.container ul{
+    margin-left:  17%;
+    padding: 2%;
+}
 .container li{
-    display: inline-block;
-    margin: 0 0 0 30px;  
+    display: inline;
    text-align: center;
-   padding: 10px;
+   padding: 5px;
 }
 
 .container h2{
